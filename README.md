@@ -9,8 +9,9 @@ SOC at CySec Alliance 🤵🏻💼 !Cyber Crime intervention officer 👮!Cyber 
 ### Currently Working on Digital Forensics 🔬 and DataScience 📈.
 
 > Recent Action .
-  [x] 1. Scripting.
-  [x] 2. Data Wrangling.
+
+- [x] 1. Scripting.
+- [x] 2. Data Wrangling.
   [ ] 3. Machine Learning.
   [ ] 4. Automation
   
