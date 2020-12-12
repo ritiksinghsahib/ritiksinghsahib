@@ -5,7 +5,7 @@ SOC at CySec Alliance 🤵🏻💼 !Cyber Crime intervention officer 👮!Cyber 
 I am working on Digital Forensics 🔬 and DataScience 📈.
 
 #### worked on techstack 💼:-
-![GitHub Logo](/images/bbj.png =50x350)
+![GitHub Logo](/images/bbj.png =250x)
 
 
 
