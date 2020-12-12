@@ -15,9 +15,6 @@ SOC at CySec Alliance 🤵🏻💼 !Cyber Crime intervention officer 👮!Cyber 
 - [:memo:] 3. Machine Learning.
 - [:memo:] 4. AutomatIon
 
-@ritiksingsahib --instagram.
-@Ritik. --linkedin.
 
-http://www.example.com
   
  ![Ritik github stats](https://github-readme-stats.vercel.app/api?username=ritiksinghsahib&show_icons=true&theme=radical)
