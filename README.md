@@ -15,13 +15,9 @@ SOC at CySec Alliance 🤵🏻💼 !Cyber Crime intervention officer 👮!Cyber 
 - [:memo:] 3. Machine Learning.
 - [:memo:] 4. AutomatIon
 
-- uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
+@ritiksingsahib --instagram.
+@Ritik. --linkedin.
 
-
+http://www.example.com
   
  ![Ritik github stats](https://github-readme-stats.vercel.app/api?username=ritiksinghsahib&show_icons=true&theme=radical)
