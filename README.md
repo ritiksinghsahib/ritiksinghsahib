@@ -1,6 +1,6 @@
 # Hi there 👋 This is Ritik Singh Sahib
 
-SOC at CySec Alliance 💻 ! Cyber Crime intervention officer 🕵️ and Cyber Forensics Invetiagator ! Ethical hacker ⚠️.
+SOC at CySec Alliance ![GitHub Logo](/images/ss.png) ! Cyber Crime intervention officer !Cyber Forensics Invetiagator ![GitHub Logo](/images/3.jpg) ! Ethical hacker ![GitHub Logo](/images/4.png) .
 
 I am working on Digital Forensics 🔬 and DataScience 📈.
 
