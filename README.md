@@ -13,23 +13,15 @@ SOC at CySec Alliance 🤵🏻💼 !Cyber Crime intervention officer 👮!Cyber 
 - [:heavy_check_mark:] 1. Scripting.
 - [:heavy_check_mark:] 2. Data Wrangling.
 - [:memo:] 3. Machine Learning.
-- [:memo:] 4. Automat:memo:on
+- [:memo:] 4. AutomatIon
 
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
+- uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+
+
   
  ![Ritik github stats](https://github-readme-stats.vercel.app/api?username=ritiksinghsahib&show_icons=true&theme=radical)
