@@ -1,11 +1,22 @@
-### Hi there 👋
+# Hi there 👋 This is Ritik Singh Sahib
 
-<!--
-**ritiksinghsahib/ritiksinghsahib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SOC at CySec Alliance 💻 ! Cyber Crime intervention officer 🕵️ and Cyber Forensics Invetiagator ! Ethical hacker ⚠️.
 
-Here are some ideas to get you started:
+I am working on Digital Forensics 🔬 and DataScience 📈.
 
-- 🔭 I’m currently working on ...
+#### worked on techstack 💼:-
+| Techstack   | work        |
+| ----------- | ----------- |
+| linux 🐧   | scriptting & adminstration   |
+| 🌐 web development   | Text        |
+
+
+
+1. linux.
+2. 🌐 web development
+2. Second item
+3. Third item
+4. Fourth item
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
