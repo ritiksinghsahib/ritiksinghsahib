@@ -1,5 +1,4 @@
-# Hi there 👋 This is Ritik Singh Sahib ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
-
+#                                                 Hi there 👋 This is Ritik Singh Sahib !
 SOC at CySec Alliance 🤵🏻💼 !Cyber Crime intervention officer 👮!Cyber Forensics Invetiagator 🕵! Ethical hacker ⚠️!Cyber Security Awarness Speaker 🎗️.
 
 ### Area of interest 📚:-
