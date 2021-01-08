@@ -22,4 +22,4 @@
 
 
   
- ![Ritik github stats](https://github-readme-stats.vercel.app/api?username=ritiksinghsahib&show_icons=true&theme=radical)
+[<img align="" alt="Ritik's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ritiksinghsahib&show_icons=true&hide_border=false&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016" />](# "Some of my stats.")
