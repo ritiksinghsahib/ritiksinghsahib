@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
-<p> <img src="./images/minus.svg" height="5%" width="100%">
+<p> <img src="./images/minus.svg" width="auto" height="5">
 <h2> Technologies worked on :-</h2>
 <p style="height:20%,width:20%">
   <img src="./images/web-developer-master-tn.svg">
