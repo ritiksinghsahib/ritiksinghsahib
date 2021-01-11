@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
 <p align="center">
     
-<img  align="center" src="./images/osint.png" height="20%" width="20%">
+<img  align="center" src="./images/osint.png" height="30%" width="30%">
 
 </p>
 
