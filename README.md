@@ -6,12 +6,11 @@
   <img src="./images/web-developer-master-tn.svg" width="80" height="80">
  <img src="./images/Android_Studio_icon.svg" width="80" height="80">
  <img src="./images/flutter.svg" width="80" height="80">
-  <img src="./images/untiy.svg" width="90" height="80">
-  <img src="./images/aws.svg" width="80" height="80">
+  <img src="./images/untiy.svg" width="90" height="80"  style="color:white">
+  <img src="./images/aws.svg" width="80" height="80" style="color:white">
   </p>
   <p><img src="./images/Vertical-Line-Transparent.png" height="50" width="980">
   <h3> Technologies working on :-</h3>
-  <p><img src="./images/Vertical-Line-Transparent.png" height="50" width="980">
 <p>
   <img src="./images/Data-Analytics.svg" width="80" height="80">
   <img src="./images/digital-forensics-banner.svg" width="80" height="80">
