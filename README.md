@@ -1,10 +1,23 @@
 
 <h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
+<p> <img src="./images/minus.svg">
+<h2> Technologies worked on :-</h2>
 <p>
-<img src="./images/Android_Studio_icon.svg">
+  <img src="./images/web-developer-master-tn.svg">
+ <img src="./images/Android_Studio_icon.svg">
+ <img src="./images/flutter.svg">
+  <img src="./images/untiy.svg">
+  <img src="./images/aws.svg">
+  
   </p>
-
-### Currently Working on Digital Forensics 🔬 and DataScience 📈.
+  <img src="./images/minus.svg">
+  <h3< Technologies working on :-</h3>
+  <img src="./images/minus.svg">
+  </p>
+  <img src="./images/Data-Analytics.svg">
+  <img src="./images/digital-forensics-banner.svg">
+  <img src="./images/bug.svg">
+  </p>
 
 > Recent Action .
 
