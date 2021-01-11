@@ -1,5 +1,6 @@
 
 <h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
+<img src="./images/osint.png" align="center">
 
 
 
