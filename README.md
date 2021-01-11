@@ -1,9 +1,7 @@
 
 <h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
 <p>
-<img src="./images/line.svg">
-  </g>
-</svg>
+<img src="./images/Android_Studio_icon.svg">
   </p>
 
 ### Currently Working on Digital Forensics 🔬 and DataScience 📈.
