@@ -1,11 +1,12 @@
 
 <h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
-<svg height="5%" width="100%">
+<p>
+  <svg height="5%" width="100%">
   <g fill="none" stroke="#5e35b1">
     <path stroke-width="6" d="M5 60 l215 0" />
   </g>
 </svg>
-
+  </p>
 
 ### Currently Working on Digital Forensics 🔬 and DataScience 📈.
 
