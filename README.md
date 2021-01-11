@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
-<p><img src="./images/Vertical-Line-Transparent.png">
+<p><img src="./images/Vertical-Line-Transparent.png" height="20" >
 <h2> Technologies worked on :-</h2>
 <p>
   <img src="./images/web-developer-master-tn.svg" width="80" height="80">
@@ -9,16 +9,16 @@
   <img src="./images/untiy.svg" width="90" height="80">
   <img src="./images/aws.svg" width="80" height="80">
   </p>
-  <p><img src="./images/Vertical-Line-Transparent.png">
+  <p><img src="./images/Vertical-Line-Transparent.png" height="20">
   <h3> Technologies working on :-</h3>
-  <p><img src="./images/Vertical-Line-Transparent.png">
+  <p><img src="./images/Vertical-Line-Transparent.png" height="20">
 <p>
   <img src="./images/Data-Analytics.svg" width="80" height="80">
   <img src="./images/digital-forensics-banner.svg" width="80" height="80">
   <img src="./images/images.jpg" width="80" height="80">
   </p>
 
-<p><img src="./images/Vertical-Line-Transparent.png">
+<p><img src="./images/Vertical-Line-Transparent.png" height="20">
 > Recent Action .
 
 - [:heavy_check_mark:] 1. Scripting.
