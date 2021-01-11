@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
-<img src="./images/osint.png" height="20%" width="20%" align="center">
+<img  align="center" src="./images/osint.png" height="20%" width="20%">
 
 
 
