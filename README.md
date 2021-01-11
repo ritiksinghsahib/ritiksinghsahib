@@ -1,4 +1,5 @@
-<h1 style="text-align:center"> Hi there 👋 This is Ritik Singh Sahib</h1>
+
+<h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
 
 
 
