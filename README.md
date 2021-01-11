@@ -1,22 +1,22 @@
 
 <h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
-<p> <img src="./images/minus.svg" width="auto" height="5">
+<p> <img src="./images/minus.svg" width="100%" height="15">
 <h2> Technologies worked on :-</h2>
-<p style="height:20%,width:20%">
-  <img src="./images/web-developer-master-tn.svg">
- <img src="./images/Android_Studio_icon.svg">
- <img src="./images/flutter.svg">
-  <img src="./images/untiy.svg">
-  <img src="./images/aws.svg">
+<p>
+  <img src="./images/web-developer-master-tn.svg" width="50" height="50">
+ <img src="./images/Android_Studio_icon.svg" width="50" height="50">
+ <img src="./images/flutter.svg" width="50" height="50">
+  <img src="./images/untiy.svg" width="50" height="50">
+  <img src="./images/aws.svg" width="50" height="50">
   
   </p>
-  <img src="./images/minus.svg" height="5%" width="100%">
+  <img src="./images/minus.svg" width="50" height="50">
   <h3< Technologies working on :-</h3>
-  <img src="./images/minus.svg" height="5%" width="100%">
-  <p style="height:5%,width:20%";>
-  <img src="./images/Data-Analytics.svg">
-  <img src="./images/digital-forensics-banner.svg">
-  <img src="./images/bug.svg">
+  <img src="./images/minus.svg" width="50" height="50">
+  <p>
+  <img src="./images/Data-Analytics.svg" width="50" height="50">
+  <img src="./images/digital-forensics-banner.svg" width="50" height="50">
+  <img src="./images/bug.svg" width="50" height="50">
   </p>
 
 > Recent Action .
