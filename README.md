@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
-<p> <img src="./images/minus.svg" width="780" height="15">
+<p> <img src="./images/minus.svg" width="100%" height="15">
 <h2> Technologies worked on :-</h2>
 <p>
   <img src="./images/web-developer-master-tn.svg" width="80" height="80">
@@ -9,9 +9,9 @@
   <img src="./images/untiy.svg" width="90" height="80">
   <img src="./images/aws.svg" width="80" height="80">
   </p>
-  <img src="./images/minus.svg" width="780" height="50">
+  <img src="./images/minus.svg" width="100%" height="50">
   <h3> Technologies working on :-</h3>
-  <img src="./images/minus.svg" width="780" height="50">
+  <img src="./images/minus.svg" width="100%" height="50">
   <p>
   <img src="./images/Data-Analytics.svg" width="80" height="80">
   <img src="./images/digital-forensics-banner.svg" width="80" height="80">
