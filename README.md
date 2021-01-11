@@ -1,8 +1,10 @@
 
 <h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
-<center><img  align="center" src="./images/osint.png" height="20%" width="20%">
-</center>
+<p align="center">
+    
+<img  align="center" src="./images/osint.png" height="20%" width="20%">
 
+</p>
 
 
 ### Currently Working on Digital Forensics 🔬 and DataScience 📈.
