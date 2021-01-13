@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi there 👋 This is Ritik Singh Sahib</h1>
 <p><img src="./images/Vertical-Line-Transparent.png" height="50"  width="980">
-<h2> Technologies worked on :-</h2>
+<h2> Technologies and frameworks worked on :-</h2>
 <p>
   <img src="./images/web-developer-master-tn.svg" width="80" height="80">
  <img src="./images/Android_Studio_icon.svg" width="80" height="80">
